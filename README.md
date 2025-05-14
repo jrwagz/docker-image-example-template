@@ -6,7 +6,8 @@ Template repository for building a docker image including all of the GitHub acti
 
 ## Using the template
 
-TODO: fill me in
+In order to create a new repo from this template, simply follow the
+[officially documented steps](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 ## Dependencies
 
