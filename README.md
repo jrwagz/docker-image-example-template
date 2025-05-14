@@ -8,6 +8,14 @@ Template repository for building a docker image including all of the GitHub acti
 
 TODO: fill me in
 
-## Template features
+## Dependencies
 
-TODO: fill me in
+The following dependencies must be installed on your development machine to properly develop this repo:
+
+- [make](https://www.gnu.org/software/make/)
+- [docker](https://www.docker.com/)
+
+## Features
+
+For full documentation on all of the features provided in this repo, see
+[./template-features.md](./template-features.md)
